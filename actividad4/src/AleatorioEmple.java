@@ -41,6 +41,8 @@ public class AleatorioEmple {
 			System.out.println(" ------------------------------------------");
 		} else 
 			System.out.println(" ---------FICHERO VACÍO --------------------");
+		//Añadida para la prueba de los 3 commits: primera
+		System.out.println(" ------------------------------------------");
 	}// fin verporconsola
 
 	public static void crear() throws IOException {
