@@ -43,7 +43,9 @@ public class AleatorioEmple {
 			System.out.println(" ---------FICHERO VACÍO --------------------");
 		//Añadida para la prueba de los 3 commits: primera
 		System.out.println(" ------------------------------------------");
-	}// fin verporconsola
+		//Añadida para la prueba de los 3 commits: tercera
+		System.out.println(" ------------------------------------------");
+	}// fin leer
 
 	public static void crear() throws IOException {
 		File fichero = new File("AleatorioEmple.dat");
